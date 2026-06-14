@@ -1,5 +1,5 @@
 # Task-3-Ditya
-Bulit the Database-Integrated Backend for Scribble (Project 3)
+Bulit the Database-Integrated Backend for Scribble
 
 ## 📂Project Architecture Blueprint
 
