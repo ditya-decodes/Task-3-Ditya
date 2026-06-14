@@ -1,6 +1,5 @@
 /**
  * Scribble Backend Database Engine
- * Compliant with DecodeLabs Persistence Standards
  */
 
 const express = require('express');
