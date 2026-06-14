@@ -1,5 +1,5 @@
 # Task-3-Ditya
-Bulit the Database-Integrated Backend for Scribble
+Bulit the Database-Integrated Backend for Scribble as TASK-03 project for the **DecodeLabs Full Stack Development Internship.**
 
 ## 📂Project Architecture Blueprint
 
@@ -60,4 +60,3 @@ All operations now leverage the Sequelize ORM to execute high-performance SQL qu
 
 ---
 Developed for the 2026 Full Stack Summer Internship | Database Integration Milestone Completed
-
