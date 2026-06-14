@@ -1,9 +1,13 @@
 # Task-3-Ditya
 Bulit the Database-Integrated Backend for Scribble (Project 3)
-This task is the culmination of the backend persistence phase. This iteration transitions from volatile, temporary file storage to a resilient, permanent SQLite relational database powered by the Sequelize ORM. It fulfills the industrial mandate for "Data Longevity," ensuring that every note, tag, and archival state is securely vaulted in structured relational storage.
+
+This task marks the culmination of the backend persistence phase. The iteration successfully transitions Scribble from volatile, temporary file storage to a resilient, permanent **SQLite** relational database powered by the **Sequelize ORM**. It fulfills the industrial mandate for "Data Longevity," ensuring that every note, tag, and archival state is securely vaulted in structured relational storage.
+
 ---
 
-## 📂Project Architecture Blueprint
+## 📂 Project Architecture Blueprint
+
+```text
 scribble-workspace/
 │
 ├── backend/
@@ -54,4 +58,4 @@ npm start
 
 -> ORM Shield: Using Sequelize acts as a security barrier, preventing raw SQL injection vulnerabilities by parameterizing all queries sent to the database engine.
 
-Developed for the 2026 Summer Internship | Database Integration Milestone Completed
+Developed for the **2026 Summer Internship | Database Integration Milestone Completed**.
